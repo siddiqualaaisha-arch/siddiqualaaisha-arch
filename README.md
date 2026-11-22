@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Aaisha Siddiqua
 
-<!--
-**siddiqualaaisha-arch/siddiqualaaisha-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MCA student (expected 2027) with a B.Sc. in Computer Science. I'm looking for entry-level roles in software and web development.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** Java, Python, JavaScript, TypeScript, SQL, C, C++
+- **Web:** React, Node.js, Express, PHP, HTML, CSS, REST APIs
+- **Databases:** MySQL, Oracle
+- **AI:** LangChain, AutoGen, RAG, OpenAI API, Google GenAI SDK
+- **Tools:** Git, GitHub, VS Code, Oracle Cloud Infrastructure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [CDSS (Aether Health)](https://github.com/siddiqualaaisha-arch/CDSS): a clinical decision-support prototype where five AI agents coordinate a patient interaction
+- [hmms](https://github.com/siddiqualaaisha-arch/hmms): a health monitoring and management system for patient records and appointments
+
+## Contact
+- LinkedIn: [linkedin.com/in/aaishasiddiqua](https://www.linkedin.com/in/aaishasiddiqua)
